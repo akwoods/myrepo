@@ -6,3 +6,4 @@ question on key
 try commit from shell
 start ssh-agent
 start from git
+did the git config
