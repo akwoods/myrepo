@@ -8,3 +8,4 @@ start ssh-agent
 start from git
 did the git config
 credential helper
+again rstudio
